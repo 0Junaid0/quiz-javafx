@@ -9,7 +9,6 @@ public class QuestionDTO {
 	public String answer;
 
 	public QuestionDTO(String question, String choice1, String choice2, String choice3, String choice4, String answer) {
-		super();
 		this.question = question;
 		this.choice1 = choice1;
 		this.choice2 = choice2;

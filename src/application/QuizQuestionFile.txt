@@ -1,27 +1,174 @@
-1. What is the color of the sky?
-a. Blue
-b. Red
-c. Green
-d. Yellow
-b. Red
+Who is the author of "1984"?
+a. George Orwell
+b. J.K. Rowling
+c. Ernest Hemingway
+d. Charles Dickens
+a. George Orwell
 
-2. What is the cat's name?
-a. Vola
-b. Mini
-c. Green
-d. Yellow
-b. Mini
+Which planet is known as the Red Planet?
+a. Venus
+b. Jupiter
+c. Mars
+d. Saturn
+c. Mars
 
-3. What is the color of the sky?
-a. Blue
-b. Red
-c. Green
-d. Yellow
-d. Yellow
+Which country is known as the Land of the Rising Sun?
+a. China
+b. Japan
+c. India
+d. Brazil
+b. Japan
 
-4. What is the color of the sky?
-a. Blue
-b. Red
-c. Green
-d. Yellow
-c. Green
+What is the capital of France?
+a. London
+b. Berlin
+c. Paris
+d. Madrid
+c. Paris
+
+Who painted the Mona Lisa?
+a. Vincent van Gogh
+b. Leonardo da Vinci
+c. Pablo Picasso
+d. Michelangelo
+b. Leonardo da Vinci
+
+What is the chemical symbol for water?
+a. Wo
+b. Wa
+c. H2O
+d. O2
+c. H2O
+
+Which mammal lays eggs?
+a. Platypus
+b. Dolphin
+c. Tiger
+d. Lion
+a. Platypus
+
+What is the tallest mountain in the world?
+a. Mount Everest
+b. Mount Kilimanjaro
+c. Mount Fuji
+d. Mount Rushmore
+a. Mount Everest
+
+What is the main ingredient in guacamole?
+a. Avocado
+b. Tomato
+c. Onion
+d. Potato
+a. Avocado
+
+Who wrote "To Kill a Mockingbird"?
+a. Harper Lee
+b. J.R.R. Tolkien
+c. Mark Twain
+d. Charles Dickens
+a. Harper Lee
+
+What is the currency of Japan?
+a. Euro
+b. Yen
+c. Dollar
+d. Pound
+b. Yen
+
+Which is the largest ocean on Earth?
+a. Atlantic Ocean
+b. Indian Ocean
+c. Arctic Ocean
+d. Pacific Ocean
+d. Pacific Ocean
+
+Who discovered penicillin?
+a. Marie Curie
+b. Alexander Fleming
+c. Albert Einstein
+d. Isaac Newton
+b. Alexander Fleming
+
+What is the chemical symbol for gold?
+a. Au
+b. Ag
+c. Fe
+d. Pb
+a. Au
+
+What is the capital of Australia?
+a. Sydney
+b. Melbourne
+c. Canberra
+d. Perth
+c. Canberra
+
+Who is known as the Father of Modern Physics?
+a. Isaac Newton
+b. Albert Einstein
+c. Galileo Galilei
+d. Nikola Tesla
+b. Albert Einstein
+
+Which gas do plants use for photosynthesis?
+a. Nitrogen
+b. Oxygen
+c. Carbon Dioxide
+d. Hydrogen
+c. Carbon Dioxide
+
+What is the largest organ in the human body?
+a. Liver
+b. Brain
+c. Skin
+d. Heart
+c. Skin
+
+What is the chemical symbol for sodium?
+a. So
+b. Na
+c. Sn
+d. Ni
+b. Na
+
+Who is the current President of the United States?
+a. Barack Obama
+b. Joe Biden
+c. Donald Trump
+d. George W. Bush
+b. Joe Biden
+
+Who wrote "The Catcher in the Rye"?
+a. J.D. Salinger
+b. F. Scott Fitzgerald
+c. Ernest Hemingway
+d. Mark Twain
+a. J.D. Salinger
+
+What is the chemical symbol for potassium?
+a. Po
+b. Pt
+c. K
+d. Ku
+c. K
+
+Who is the Greek god of the sea?
+a. Zeus
+b. Poseidon
+c. Hades
+d. Apollo
+b. Poseidon
+
+What is the capital of South Africa?
+a. Cape Town
+b. Johannesburg
+c. Pretoria
+d. Durban
+c. Pretoria
+
+Who painted "The Persistence of Memory"?
+a. Salvador Dali
+b. Pablo Picasso
+c. Vincent van Gogh
+d. Claude Monet
+a. Salvador Dali

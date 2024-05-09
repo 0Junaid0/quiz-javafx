@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -119,6 +121,9 @@ public class QueAndAnswer extends Stage {
 		alert.setHeaderText("Correct answers out of " + answers.size());
 		alert.setContentText("" + correctAnswers);
 		alert.show();
+
+		// Disable the current button.
+		((Button) event.getSource()).setDisable(true);
 	}
 
 	@FXML
@@ -174,6 +179,25 @@ public class QueAndAnswer extends Stage {
 				questions.add(quesObj);
 				answers.add(choice1);
 			}
+			
+			// Shuffle the questions and answers.
+			// Shuffle the indices
+	        List<Integer> indices = new ArrayList<>();
+	        for (int i = 0; i < 5; i++) {
+	            indices.add(i);
+	        }
+	        Collections.shuffle(indices);
+
+	        // Shuffle the ArrayLists based on shuffled indices
+	        ArrayList<QuestionDTO> shuffledList1 = new ArrayList<>();
+	        ArrayList<String> shuffledList2 = new ArrayList<>();
+	        for (int index : indices) {
+	            shuffledList1.add(questions.get(index));
+	            shuffledList2.add(answers.get(index));
+	        }
+	        
+	        questions = shuffledList1;
+	        answers = shuffledList2;
 		}
 	}
 }
