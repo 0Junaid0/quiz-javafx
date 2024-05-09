@@ -8,9 +8,9 @@ import javafx.stage.Stage;
 
 public class StudentStage extends Stage {
 	public StudentStage() throws IOException {
-		FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("StudentView.fxml"));
+		FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("StartView.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
-        setTitle("Student!");
+        setTitle("Start the quiz");
         setScene(scene);
         show();
 	}

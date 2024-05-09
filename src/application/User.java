@@ -7,7 +7,6 @@ public class User {
 	
 	public static String ROLE_ADMIN = "admin";
 	public static String ROLE_STUDENT = "student";
-	public static String ROLE_FACULTY = "faculty";
 	
 	public User(String username, String password, String role) {
 		this.username = username;

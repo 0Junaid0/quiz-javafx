@@ -181,8 +181,8 @@ public class QueAndAnswer extends Stage {
 			}
 			
 			
-//			// Shuffle the questions and answers.
-//			// Shuffle the indices
+//			Shuffle the questions and answers.
+//			Shuffle the indices
 //	        List<Integer> indices = new ArrayList<>();
 //	        for (int i = 0; i < questions.size(); i++) {
 //	            indices.add(i);
