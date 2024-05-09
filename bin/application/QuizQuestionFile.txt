@@ -1,7 +1,27 @@
-1.What is the color of the sky?
+1. What is the color of the sky?
 a. Blue
 b. Red
 c. Green
 d. Yellow
+Red
 
+2. What is the cat's name?
+a. Vola
+b. Mini
+c. Green
+d. Yellow
+Mini
 
+3. What is the color of the sky?
+a. Blue
+b. Red
+c. Green
+d. Yellow
+Yellow
+
+4. What is the color of the sky?
+a. Blue
+b. Red
+c. Green
+d. Yellow
+Green

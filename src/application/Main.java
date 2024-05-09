@@ -21,7 +21,7 @@ public class Main extends Application {
 			UsersDatabase.addUser(new User("admin", "123456", User.ROLE_ADMIN));
 			UsersDatabase.addUser(new User("faculty", "1234567", User.ROLE_FACULTY));
 
-			Parent root = FXMLLoader.load(getClass().getResource("LoginView.fxml")); 
+			Parent root = FXMLLoader.load(getClass().getResource("StudentView.fxml")); 
 			Scene scene = new Scene(root);
 			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			primaryStage.setScene(scene);
