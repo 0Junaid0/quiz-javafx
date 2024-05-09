@@ -19,10 +19,6 @@
                      <items>
                         <MenuItem mnemonicParsing="false" onAction="#chooseFile" text="Open" />
                      </items></Menu>
-                <Menu mnemonicParsing="false" text="Edit">
-                     <items>
-                        <MenuItem mnemonicParsing="false" text="Open" />
-                     </items></Menu>
               </menus>
             </MenuBar>
          </top>

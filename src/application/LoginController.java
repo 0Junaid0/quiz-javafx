@@ -36,10 +36,6 @@ public class LoginController {
 		case "student":
 			new StudentStage();
 			break;
-//		case "faculty":
-//			throw new UnsupportedOperationException("FacultyStage is not defined yet");
-//			new FacultyStage();
-//			break;
 		default:
 			throw new RuntimeException("Invalid role found");
 		}
