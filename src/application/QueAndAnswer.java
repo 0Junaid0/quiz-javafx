@@ -8,13 +8,17 @@ import java.util.ArrayList;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.RadioButton;
 import javafx.scene.control.Toggle;
 import javafx.scene.control.ToggleGroup;
+import javafx.stage.Popup;
+import javafx.stage.Stage;
 
-public class QueAndAnswer {
+public class QueAndAnswer extends Stage {
 	/**
 	 * Holds the list of question objects read from the file.
 	 */
@@ -105,12 +109,20 @@ public class QueAndAnswer {
 		RadioButton selectedOption = (RadioButton) optionGroup.getSelectedToggle();
 		answers.set(currentQuestionIndex, selectedOption.getText());
 
+		int correctAnswers = 0;
 		for (int i = 0; i < answers.size(); i++) {
 			QuestionDTO q = questions.get(i);
 			String curAnswer = answers.get(i);
-			System.out.println("Expected answer: " + q.answer);
-			System.out.println("User submitted answer: " + curAnswer);
+			if (q.answer.equals(curAnswer)) {
+				correctAnswers++;
+			}
 		}
+		
+		Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
+		alert.setTitle("Evaluation result");
+		alert.setHeaderText("Correct answers out of " + answers.size());
+		alert.setContentText("" + correctAnswers);
+		alert.show();
 	}
 	
 	@FXML

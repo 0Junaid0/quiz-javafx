@@ -3,25 +3,25 @@ a. Blue
 b. Red
 c. Green
 d. Yellow
-Red
+b. Red
 
 2. What is the cat's name?
 a. Vola
 b. Mini
 c. Green
 d. Yellow
-Mini
+b. Mini
 
 3. What is the color of the sky?
 a. Blue
 b. Red
 c. Green
 d. Yellow
-Yellow
+d. Yellow
 
 4. What is the color of the sky?
 a. Blue
 b. Red
 c. Green
 d. Yellow
-Green
+c. Green
