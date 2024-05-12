@@ -180,7 +180,6 @@ public class QueAndAnswer extends Stage {
 				answers.add(choice1);
 			}
 			
-			
 //			Shuffle the questions and answers.
 //			Shuffle the indices
 //	        List<Integer> indices = new ArrayList<>();
@@ -199,6 +198,7 @@ public class QueAndAnswer extends Stage {
 //	        
 //	        questions = shuffledList1;
 //	        answers = shuffledList2;
+			
 		}
 		
 	}

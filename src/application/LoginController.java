@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import javafx.event.ActionEvent;
 
-public class LoginController {
+public class LoginController{
 	@FXML
 	private TextField username;
 
@@ -39,6 +39,8 @@ public class LoginController {
 		default:
 			throw new RuntimeException("Invalid role found");
 		}
+		
+		
 	}
 
 	@FXML
