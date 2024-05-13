@@ -17,6 +17,4 @@ public class StartController extends Stage {
 		setScene(scene);
 		show();
 	}
-
-	
 }
