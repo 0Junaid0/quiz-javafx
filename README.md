@@ -1,7 +1,24 @@
+
 "# quiz-javafx"
-Video link->  https://www.youtube.com/watch?v=PL9bCn1A2Yo
-Login Info
+
+
+
+
+#### Video Link->
+
+https://www.youtube.com/watch?v=PL9bCn1A2Yo&t=6s
+
+
+### Login Info
+
 Admin:
-  Username: admin Password:123456
+
+```bash
+ Usename: admin
+ Password: 123456
+```
 Student:
-  Username: junaid Password:12345
+```bash
+ Usename: junaid
+ Password: 12345
+```
