@@ -1,7 +1,7 @@
 "# quiz-javafx"
-Video link->  https://www.youtube.com/watch?v=PL9bCn1A2Yo
+# Video link->  https://www.youtube.com/watch?v=PL9bCn1A2Yo
 
-Admin:
+# Admin:
   Username:admin Password:123456
-Student:
+# Student:
   Username:junaid Password:12345
