@@ -1,24 +1,20 @@
+# Quiz JavaFX app
 
-"# quiz-javafx"
-
-
-
-
-#### Video Link->
+### Video Link
 
 https://www.youtube.com/watch?v=PL9bCn1A2Yo&t=6s
 
-
 ### Login Info
 
-Admin:
+1. Admin:
 
-```bash
+```
  Usename: admin
  Password: 123456
 ```
-Student:
-```bash
+
+2. Student:
+```
  Usename: junaid
  Password: 12345
 ```
